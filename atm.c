@@ -1,3 +1,11 @@
+/********************************************************        
+* A simple ATM system.			               *   
+*                                                      *   
+* Author:  Dominic, Kgoete                             *   
+*                                                      *   
+* Date:    May, 2019				       *   
+********************************************************/  
+
 #include <stdio.h>
 
 unsigned long amount = 5000, deposit, withdraw;
